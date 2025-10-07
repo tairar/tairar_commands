@@ -1,1 +1,2 @@
+#ref from: https://qiita.com/query1000/items/dace75bbaef9781c596c
 sudo mount -t drvfs G: /mnt/g
